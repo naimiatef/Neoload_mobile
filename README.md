@@ -23,6 +23,6 @@
 
 Exemple 1: Mode Proxy
 
-Exemple2: Mode Tunel
-https://github.com/user-attachments/assets/bea11ac3-a5df-4e8f-ae98-07ffb5f65da6
+Exemple2: Mode Tunel <br>
+https://github.com/user-attachments/assets/f1b5d5e8-16d3-41e6-9e40-617b70dc8df1
 
