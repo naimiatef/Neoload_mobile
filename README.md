@@ -22,8 +22,8 @@
 ![image](https://github.com/user-attachments/assets/8d22708d-f673-4e64-8472-8ef1aebe6bb2)
 
 Exemple 1: Mode Proxy
-
+**"Connectez-moi pour obtenir un exemple bien détaillé."**
 Exemple2: Mode Tunel <br>
 
-https://github.com/user-attachments/assets/0e9b6e39-7f93-4231-b985-2537f89efcb4
+**"Connectez-moi pour obtenir un exemple bien détaillé."**
 
