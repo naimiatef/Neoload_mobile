@@ -23,7 +23,13 @@
 
 # Exemple 1: Mode Proxy <br>
 **"Connectez-moi pour obtenir un exemple bien détaillé: naimiatef@gmail.com"**<br>
-https://github.com/user-attachments/assets/a81562e6-978e-484c-8f27-49591f5e712f
+
+
+
+https://github.com/user-attachments/assets/93abea12-585f-4efe-8eae-2d30deba8b3b
+
+
+
 # Exemple2: Mode Tunel <br>
 **"Connectez-moi pour obtenir un exemple bien détaillé."**<br>
 naimiatef@gmail.com
