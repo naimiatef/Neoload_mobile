@@ -24,6 +24,7 @@
 # Exemple 1: Mode Proxy <br>
 **"Connectez-moi pour obtenir un exemple bien détaillé."**<br>
 naimiatef@gmail.com
+https://github.com/user-attachments/assets/df943b91-b7cb-4c90-a842-4316fb98efc8
 # Exemple2: Mode Tunel <br>
 **"Connectez-moi pour obtenir un exemple bien détaillé."**<br>
 naimiatef@gmail.com
