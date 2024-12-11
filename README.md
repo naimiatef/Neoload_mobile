@@ -24,5 +24,12 @@
 # Exemple 1: Mode Proxy <br>
 **"Connectez-moi pour obtenir un exemple bien détaillé."**<br>
 naimiatef@gmail.com <br>
-[https://github.com/user-attachments/assets/df943b91-b7cb-4c90-a842-4316fb98efc8](https://github.com/user-attachments/assets/21ea85e6-fff6-41f1-9f18-29b08a93f1ff)
+[https://github.com/user-attachments/assets/df943b91-b7cb-4c90-a842-4316fb98efc8]
 
+# Exemple2: Mode Tunel <br>
+**"Connectez-moi pour obtenir un exemple bien détaillé."**<br>
+naimiatef@gmail.com
+
+
+
+https://github.com/user-attachments/assets/a81562e6-978e-484c-8f27-49591f5e712f
